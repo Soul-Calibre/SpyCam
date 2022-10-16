@@ -1,3 +1,6 @@
+# SpyCam
+Take camshots from target's phone front camera or PC webcam just sending a link.
+
 ## Installing (Kali Linux/Termux/Hyper-V):
 
 ```
