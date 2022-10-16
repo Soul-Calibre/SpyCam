@@ -12,10 +12,6 @@
 9. Select YoutubeTV (2)
 10. Go to youtube.com and copy the Youtube Video ID
 11. Visit https://dashboard.ngrok.com/get-started/your-authtoken . Create an account then copy the AuthToken.
-12. NGROK AuthToken: 2G8dbTZvkuFoPAA7nZR4w1jL1Kq_227fHDETh6TteZWDqZxBt
-13. Youtube TV ID: T5MqrsjlvBw
-14. ls
-15. fim "ImageFileName"
 
 Delete All PNG Files: rm *.png
 ```
