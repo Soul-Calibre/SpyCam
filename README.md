@@ -1,5 +1,5 @@
 # SpyCam
-Take camshots from target's phone front camera or PC webcam just sending a link.
+Take camshots from target's mobile phone front camera or PC webcam by just sending a link.
 
 ## Installing (Kali Linux/Termux/Hyper-V):
 
@@ -18,3 +18,5 @@ Take camshots from target's phone front camera or PC webcam just sending a link.
 
 Delete All PNG Files: rm *.png
 ```
+# THIS PROGRAM MUST NOT BE USED ILLEGALLY
+# USE AT YOUR OWN RISK
