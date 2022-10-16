@@ -1,4 +1,4 @@
-## Installing (Kali Linux/Termux):
+## Installing (Kali Linux/Termux/Hyper-V):
 
 ```
 1. sudo apt update && sudo apt upgrade
